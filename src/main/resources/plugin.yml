@@ -1,0 +1,7 @@
+name: AdventureAPITutorial
+version: '${project.version}'
+main: me.kodysimpson.adventureapitutorial.AdventureAPITutorial
+api-version: 1.18
+commands:
+  potato:
+    description: Potato time
